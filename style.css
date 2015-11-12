@@ -343,6 +343,13 @@ ul#footerlink3, ul#footerlink4, ul#footerlink5, ul#footerlink6, ul#footerlink7{
 	height:53%;
 	background-color:white;
 }
+
+.bg{
+	background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .popularsmall{
 	width: 29%;
 	height: 130px;
