@@ -226,6 +226,13 @@ a.two:hover{
 	font-weight: 600;
 }
 
+.descriptor4{
+	float:left;
+	position:relative;
+	padding:13% 0px 0px 20px;
+	font-size:15px;
+}
+
 .smallphoto{
 	float:left;
 	position:relative;
@@ -392,6 +399,12 @@ ul#footerlink3, ul#footerlink4, ul#footerlink5, ul#footerlink6, ul#footerlink7{
 		font-size: 12px;
 		width:12%;
 	}
+	.descriptor4{
+	float:left;
+	position:relative;
+	padding:0px 0px 0px 0px;
+	font-size:15px;
+	}
 	
 
 @media (max-width: 760px) {
@@ -445,5 +458,10 @@ ul#footerlink3, ul#footerlink4, ul#footerlink5, ul#footerlink6, ul#footerlink7{
 		position:relative;
 		width: 100%;
 	}
-	
+	.descriptor4{
+	float:left;
+	position:relative;
+	padding:0px 0px 0px 0px;
+	font-size:15px;
+	}
 }
