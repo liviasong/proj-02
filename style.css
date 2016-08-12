@@ -12,6 +12,10 @@ body{
 	height:2100px;
 	overflow-right:hidden;
 }
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
 	
 .header{
 	position:fixed;
@@ -165,11 +169,13 @@ a.two:hover{
 }
 
 .news-text{
+	font-family: 'Open Sans', sans-serif;
 	clear:left;
 	margin-top:30px;
 	width:95%;
 }
 .mothercontent{
+	font-family: 'Open Sans', sans-serif;
 	background-color:none;
 	padding-top: 0px;
 	width: 100%;
@@ -186,6 +192,7 @@ a.two:hover{
 	
 }
 .rnTitle{
+	font-family: 'Open Sans', sans-serif;
 	margin-left: 8%;
 	margin-bottom: 35px;
 }
@@ -199,6 +206,7 @@ a.two:hover{
 	margin-left: 8%;
 }
 .smallnews{
+	font-family: 'Open Sans', sans-serif;
 	height:14.5%;
 	overflow:hidden;
 	float:left;
@@ -208,12 +216,14 @@ a.two:hover{
 }
 
 .descriptor{
+	font-family: 'Open Sans', sans-serif;
 	float:left;
 	position:relative;
 	padding: 20px;
 	font-size:15px;
 }
 .descriptor2{
+	font-family: 'Open Sans', sans-serif;
 	float:left;
 	position:relative;
 	padding:13% 0px 0px 20px;
