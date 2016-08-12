@@ -5,7 +5,7 @@
 body{
 	margin:0px;
 	padding:0px;
-	font-family: open sans;
+	font-family: 'Open Sans', sans-serif;
 	color:silver;
 	background-color: white;
 	width:100%;
@@ -29,7 +29,7 @@ body{
 	float:left;
 	width:11%;
 	height:100%;
-	font-family: open sans;
+	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	font-weight:600;
 	color:orange;
@@ -312,12 +312,14 @@ a.two:hover{
 }
 
 ul#footerlink, ul#footerlink2{
+	font-family: 'Open Sans', sans-serif;
 	line-height: 35px;
 	font-size: 15px;
 	padding-left: 0px;
 }
 
 ul#footerlink3, ul#footerlink4, ul#footerlink5, ul#footerlink6, ul#footerlink7{
+	font-family: 'Open Sans', sans-serif;
 	color: orange;
 	line-height: 35px;
 	font-size: 15px;
