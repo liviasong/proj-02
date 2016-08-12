@@ -171,7 +171,6 @@ a.two:hover{
 }
 
 .news-text{
-	font-family: 'Open Sans', sans-serif;
 	clear:left;
 	margin-top:30px;
 	width:95%;
@@ -194,7 +193,6 @@ a.two:hover{
 	
 }
 .rnTitle{
-	font-family: 'Open Sans', sans-serif;
 	margin-left: 8%;
 	margin-bottom: 35px;
 }
@@ -233,6 +231,7 @@ a.two:hover{
 }
 
 .descriptor3{
+	font-family: 'Open Sans', sans-serif;
 	padding:7% 0px 0px 0px;
 	font-size:15px;
 	color: #333333;
@@ -240,6 +239,7 @@ a.two:hover{
 }
 
 .descriptor4{
+	font-family: 'Open Sans', sans-serif;
 	float:left;
 	position:relative;
 	padding:13% 0px 0px 20px;
