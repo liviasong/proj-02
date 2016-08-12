@@ -12,10 +12,6 @@ body{
 	height:2100px;
 	overflow-right:hidden;
 }
-
-p{
-	font-family: 'Open Sans', sans-serif;
-}
 	
 .header{
 	position:fixed;
@@ -113,18 +109,21 @@ p{
 }
 h1{
 	font-size:30px;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 3px;
 	font-weight: 600;
 	margin-top:0;
 }
 h2{
 	font-size:22px;
+	font-family: 'Open Sans', sans-serif;
 	padding: 0px;
 	margin: 0px;
 }
 
 h3{
 	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	margin: 0px;
 	padding: 0px;
@@ -132,17 +131,20 @@ h3{
 
 h4{
 	text-transform:uppercase;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 3px;
 	font-weight: 600;
 	font-size:16px;
 }
 h5{
 	color: #00aced;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	margin:0;
 	padding:0;
 }
 p{
+	font-family: 'Open Sans', sans-serif;
 	color: #333333;
 	margin-top:10px;
 	padding:0;
